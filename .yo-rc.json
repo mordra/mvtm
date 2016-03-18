@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "movietime",
+    "style": "css",
+    "postcss": false
+  }
+}

@@ -1,0 +1,9 @@
+/* Base Application Styles */
+.main-component {
+  padding: 15px
+}
+
+thead tr td {
+  border-bottom: 1px solid #000;
+}
+
