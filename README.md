@@ -1,7 +1,7 @@
 # Movie Time
 
 # To build:
-1. Clone repo: git clone https://github.com/mordra/mvtm
+1. Clone repo: `git clone https://github.com/mordra/mvtm`
 2. `npm i`
 3. `npm run start`
 
